@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">plug_yash</string>
+    <string name="sign_in_with_google">Sign in With Google</string>
+    <string name="example">Example</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email address</string>
+    <string name="sign_out">Sign out</string>
+    <string name="default_web_client_id_string">919996609855-povm5botgpufunjtrbvru3oilgqf90qn.apps.googleusercontent.com</string>
+    <string name="activity_main_conDes">content Description</string>
+    <string name="signIn_content">signIn_content</string>
+
+</resources>

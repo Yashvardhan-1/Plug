@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "919996609855",
+    "project_id": "plug-yash",
+    "storage_bucket": "plug-yash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919996609855:android:abccef9553f9068cef0f8a",
+        "android_client_info": {
+          "package_name": "com.my.plug_yash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919996609855-2tdie5u63grgb4m5bmnkj4fae2ah10o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my.plug_yash",
+            "certificate_hash": "3590d38341b98f7d4e9d61764ef2a16c9771a103"
+          }
+        },
+        {
+          "client_id": "919996609855-povm5botgpufunjtrbvru3oilgqf90qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY_tcly7iY5CAWdgBB_7JNkEJFdfGRWxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919996609855-povm5botgpufunjtrbvru3oilgqf90qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
